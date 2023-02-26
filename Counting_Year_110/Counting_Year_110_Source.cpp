@@ -1,4 +1,4 @@
-#include <iostream>
+ο»Ώ#include <iostream>
 using namespace std; 
 
 void main() {
@@ -9,7 +9,7 @@ void main() {
 	for (int i = 0; i <= 365; i++)
 		{ 
 		b += 10;
-		cout << "\t" << i << " δενό = " << b;
+		cout << "\t" << i << " Π΄ΠµΠ½Ρ = " << b;
 		cout << endl;
 		
 	}
